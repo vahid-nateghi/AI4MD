@@ -1,2 +1,3 @@
-In this repository, I implement simplified versions of various scripts and notebooks related to modeling and simulation of molecular systems. \\
+In this repository, I implement simplified versions of various scripts and notebooks related to modeling and simulation of molecular systems. 
+
 This is a work in progress, and I will continue to add more content as I develop it. The goal is to provide a clear and concise reference for anyone interested in molecular modeling and simulation.
